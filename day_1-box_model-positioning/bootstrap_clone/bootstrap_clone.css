@@ -1,0 +1,169 @@
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#page-header {
+  position: relative;
+  padding: 0;
+}
+
+.cia-name {1
+  margin-bottom: 20px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  float:left;
+}
+
+.cia-name h1 {
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 32px;
+  margin-top: 25px;
+}
+
+nav {
+  padding: 0px 0px;
+  margin: 15px 0px;
+  height: 60px;
+  border-bottom: none;
+  float: left;
+}
+
+nav ul{
+  width: auto;
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 0 0px;
+}
+
+nav li {
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-weight: 400;
+}
+
+nav a {
+  display: inline-block;
+  margin: 0;
+  padding: 19px 10px 19px 10px;
+  text-decoration: none;
+  position: relative;
+}
+
+.slides-box {
+  max-height: 580px;
+  position: relative;
+  background: url(http://cdn.demo.fabthemes.com/revera/files/2013/08/beautiful_poppies-wallpaper-1920x1080-780x400.jpg);
+}
+
+.slides-box img {
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+.text-box {
+  width: 100%;
+  max-width: 800px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin-left: -400px;
+  text-align: center;
+  z-index: 120;
+  color: #fff;
+}
+
+.text-box h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+}
+.text-box-content {
+  font-size: 16px;
+}
+
+#read-more-button {
+  background: rgba(255,255,255,0.2);
+  display: block;
+  text-transform: uppercase;
+  color: #fff;
+  width: 150px;
+  border: 1px solid #fff;
+  padding: 5px 0px;
+  margin: 10px auto;
+  font-weight: bold;
+  color: #fff
+}
+
+.direction-arrow {
+}
+
+#prev-arrow{
+  width: 50px;
+  height: 100px;
+  margin: -50px 0 0;
+  display: block;
+  background: url(http://demo.fabthemes.com/revera/wp-content/themes/Revera/images/bg_direction_nav.png) no-repeat 0 0;
+  position: absolute;
+  top: 50%;
+  z-index: 110;
+  cursor: pointer;
+  text-indent: -9999px;
+  left: 0;
+}
+#next-arrow {
+  width: 50px;
+  height: 100px;
+  margin: -50px 0 0;
+  display: block;
+  background: url(http://demo.fabthemes.com/revera/wp-content/themes/Revera/images/bg_direction_nav.png) no-repeat 0 0;
+  position: absolute;
+  top: 50%;
+  z-index: 110;
+  cursor: pointer;
+  text-indent: -9999px;
+  background-position: 100% 0;
+  right: 0px;
+}
+
+.cool-box {
+  overflow: auto;
+  padding: 40px 0px;
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
+
+.cool-article {
+  color: #fff;
+  text-align: center;
+}
+
+.cool-article span {
+  border: 5px solid #fff;
+  background: transparent;
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  display: block;
+  line-height: 65px;
+  text-align: center;
+  margin: 0px auto;
+  font-size: 20px;
+}
+.cool-article h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cool-article p {
+  margin: 0 0 10px;
+}

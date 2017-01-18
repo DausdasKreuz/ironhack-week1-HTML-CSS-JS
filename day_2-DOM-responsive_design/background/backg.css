@@ -1,0 +1,19 @@
+body {
+  /*background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-XTFUDLrcsPURafqaJLOk-wy5psLjvWf4Qh5hKn1U9ZbGaIoH) no-repeat;
+  background-position: 30% -20%;*/
+
+  /*background-color: #e0e0e0;
+  background-color: rgba(0,0,0,0.3);*/
+
+  /*background: ;
+  height: 650px;*/
+}
+
+.backg {
+  width: 100%;
+  height: 650px;
+  background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-XTFUDLrcsPURafqaJLOk-wy5psLjvWf4Qh5hKn1U9ZbGaIoH) no-repeat;
+  background-color: #648880
+
+  background-position: 20% 20%;
+}
